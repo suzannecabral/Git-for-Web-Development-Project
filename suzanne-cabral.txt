@@ -1,5 +1,5 @@
 "Learning How to Code" codepen link:
-https://codepen.io/suzanne_cabral1031/pen/MWyWKyg?editors=1100
+https://codepen.io/suzanne_cabral1031/pen/poyogBy?editors=1100
 
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
@@ -134,7 +134,7 @@ git push -u origin suzanne-cabral
         6. code . to open all the files and begin working
         7. commit changes every 20 minutes or so, and with major changes. Add comments when you commit.
         8. push changes back up to github
-        9. When the project is complete, submit a pull request for your branch that your TL will review and merge. Your repository has to be the base repository when you submit the request.
+        9. When the project is complete, submit a pull request for your branch that your TL will review and merge. Add your TL as a reviewer. Your repository has to be the base repository when you submit the request.
         10. TL will merge your pull request once they have done a review. 
 
 
