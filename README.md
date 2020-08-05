@@ -11,22 +11,22 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 - [x] Clone this repo
 - [x] Create a branch `git checkout -b 'firstName-lastName'`
   - [x] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
-  - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> main).
-  - [ ] Add your TL as a reviewer on the Pull-Request
-- [ ] TL then will count the Assignment as done by merging the HW back into main "STUDENT FORK".
+  - [x] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
+- [x] Create a Pull-Request to submit your work
+  - [x] Use your own student fork as the base (compare across forks, base-fork -> main).
+  - [x] Add your TL as a reviewer on the Pull-Request
+- [x] TL then will count the Assignment as done by merging the HW back into main "STUDENT FORK".
 
 ## Task 2: MVP
-1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
-2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
+[x] 1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
+[x] 2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
 * this should be review from yesterday/ extra practice
-3. After you are finished please copy the review questions into your .txt file and answer them
-4. don't forget to add, commit and push your changes.
+[x] 3. After you are finished please copy the review questions into your .txt file and answer them
+[x] 4. don't forget to add, commit and push your changes.
 
 ## Task 2b: Exit Ticket
 
-Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/M94mbzuHGQoMg6F3e/w9GqZYCQ2YoZZf).
+[x] Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/M94mbzuHGQoMg6F3e/w9GqZYCQ2YoZZf).
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability without using external references.
 
