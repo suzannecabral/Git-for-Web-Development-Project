@@ -170,7 +170,7 @@ elements determine their width based on their container, or parent element. If y
 
 
 Stretch Git Tasks
-[ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
+[x] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
 
 
     [x] Research and understand what a `merge conflict` is and how to resolve it.
@@ -183,18 +183,33 @@ Stretch Git Tasks
 
 
 
-    [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
+    [x] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
+
+    git pull: updates the local version of a repository from a remote version. Merges new commits your current branch from other people's work. This doesn't have to be a pull request submitted through the site on github.
+
+    git rebase: This seems to be used to avoid extra merge commits in the project history. Overwrites commits already existing in a branch, so that the local branch starts at the end of the current state of the master branch. (?? I'm confused by this one.)
+
+    git merge: Creates a merge commit. This merges committed changes from a second branch onto your current branch. Both of these can be local, this doesn't have to be a merge request through github.
 
 
 
+    [x] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made. 
 
+    git reset: hard reset undoes any changes since the last commit. There are other types of resets that can be more selective about which changes to keep and which to discard. hard reset discards all changes. This is used to undo the most recent change, or all of the most recent changes.
+    
+    git revert: undoes changes from a previous commit without rewriting the project history. I'm not sure technically exactly how the procedure works, but it's used for when there is a chain of multiple commits, and you want to go back and change one step in the history without removing the rest.
 
-
-    [ ] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
+    git clean: this removes local untracked files or directories from the git branch. used to reduce clutter if the files aren't needed. There are options available to customize what type of files and directories are removed.
 
 
 [x] Research and set up a Graphical User Interface (GUI) Git console. 
     GitKraken - free, nice interface, looks established, silly dad joke
     updating this line to test and see if it works 
 
-[ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
+[x] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
+    It doesn't make me enter a username/password every time? Only once at the start of the session, with an interface not directly. Maybe this is a feature from VS code. Win10/VS code/ git bash. Shouldn't be anything interfering?
+
+    Set it up anyway, followed instructions for generating a key and adding it to ssh agent using the git bash console.
+
+
+
