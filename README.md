@@ -18,20 +18,20 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 - [x] TL then will count the Assignment as done by merging the HW back into main "STUDENT FORK".
 
 ## Task 2: MVP
-[x] 1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
-[x] 2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
+- [x] 1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
+- [x] 2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
 * this should be review from yesterday/ extra practice
-[x] 3. After you are finished please copy the review questions into your .txt file and answer them
-[x] 4. don't forget to add, commit and push your changes.
+- [x] 3. After you are finished please copy the review questions into your .txt file and answer them
+- [x] 4. don't forget to add, commit and push your changes.
 
 ## Task 2b: Exit Ticket
 
-[x] Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/M94mbzuHGQoMg6F3e/w9GqZYCQ2YoZZf).
+- [x] Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/M94mbzuHGQoMg6F3e/w9GqZYCQ2YoZZf).
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability without using external references.
 
 ## Task 3: Stretch
-Stretch Review questions: 
+- [x] Stretch Review questions: 
     1. What is the difference between an inline element and a block element?
     2. What happens when an element is positioned absolutely? 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
@@ -43,7 +43,7 @@ Stretch Git Tasks
   - [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
   - [ ] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
 
-- [ ] Research and set up a Graphical User Interface (GUI) Git console. 
+- [x] Research and set up a Graphical User Interface (GUI) Git console. 
 
 - [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
 
